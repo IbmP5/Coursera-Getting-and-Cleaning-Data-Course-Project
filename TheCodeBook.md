@@ -43,6 +43,7 @@ Variable name       | Description
 --------------------|------------
 `activity_name`     | Label of activity, Factor w/ 6 levels
 `subject`           | ID of subject, int (1-30)
+
 ### non-key columns
 
 Variable name       | Description
